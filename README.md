@@ -1,5 +1,10 @@
 # Computer-Vision
 
+## Author
+- Created by: Fedor Chursin
+- Contact: fedorchursinsk@gmail.com
+- GitHub: fchursin
+
 ## Overview
 
 Welcome to the ML Learning Project repository! This project is focused on building and understanding Convolutional Neural Networks (CNNs) for computer vision tasks, with a strong emphasis on Responsible AI practices. In this project, we aim to create a working prototype of a CNN model that predicts different types of food based on input images. We will also apply various Explainable AI methods to interpret the model's decisions and assess its fairness.
