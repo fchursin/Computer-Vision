@@ -28,7 +28,7 @@ In this Jupyter Notebook, we delve into the responsible AI aspects of the projec
 - Fairness metrics assessment
 - Application of Explainable AI methods, such as Lime, GradCam, and Oculus Sensetivity, to the models for interpretability.
 
-### 3. `Proof_of_Concept_Presentation.pdf`
+### 3. `Proof_of_concept.pdf`
 
 This file contains a presentation summarizing the proof of concept for the CNN model and real-life applications. It provides an overview of the project's goals, methods, and results.
 
